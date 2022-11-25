@@ -1,6 +1,6 @@
 # public
 
-# .Net MVC 472 JSON ViewBag to View:
+# .Net 472 MVC JSON ViewBag to View:
 Controller.cs: 
 
 ViewBag.ImageQuerystr = JsonConvert.SerializeObject(forgeDataList, Formatting.Indented);
