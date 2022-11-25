@@ -15,3 +15,7 @@ alert(DataItemA);
 console.log(DataItemA);
 
 Reference: https://blog.darkthread.net/blog/escape-script-in-json/
+
+# 02 How to README.md
+
+https://www.geeksforgeeks.org/what-is-readme-md-file/
